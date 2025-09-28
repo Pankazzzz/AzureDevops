@@ -1,1 +1,1 @@
-Devops Project
+Automation framework integrated with Azure DevOps for CI/CD pipelines. Automates build, test, and deployment processes using Azure Pipelines, enabling seamless continuous integration and delivery. Supports triggering automated tests, reporting, and environment management for faster releases.
